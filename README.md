@@ -1,3 +1,3 @@
-Calculator
+Android Calculator
 ==========
 Simple Android Calculator app
